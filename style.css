@@ -1,0 +1,25 @@
+nav {
+    background: rgba(0, 0, 0, 0.67);
+    font-family: "helvetica", sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    padding: 3px;
+
+}
+
+li {
+    display: inline-block;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+li:hover {
+    color: darkgray;
+}
+li:visited {
+    color: darkgray;
+}
